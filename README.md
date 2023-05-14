@@ -4,6 +4,8 @@
 - 👯 I’m looking to collaborate on Web3.0 and Full Stack development
 - 💬 Ask me about Javascript, React, Nodejs
 
+<!-- ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png) -->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=HarshDubey1011&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Harsh Dubey](https://github-readme-stats.vercel.app/api?username=HarshDubey1011&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDubey1011&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
@@ -11,7 +13,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshDubey1011)](https://git.io/streak-stats)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31rhdypua6mypziphigxjf5hjb4q&count=3)
 
+<!-- Markdown -->
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **HarshDubey1011/HarshDubey1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
