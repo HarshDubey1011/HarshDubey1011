@@ -4,6 +4,8 @@
 - 👯 I’m looking to collaborate on Web3.0 and Full Stack development
 - 💬 Ask me about Javascript, React, Nodejs
 
+![Harsh Dubey](https://github-readme-stats.vercel.app/api?username=HarshDubey1011&show_icons=true&theme=transparent)
+
 <!--
 **HarshDubey1011/HarshDubey1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
