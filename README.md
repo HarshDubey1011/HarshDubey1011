@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Web3.0
+- 🌱 I’m currently learning Blockchain and Flutter
+- 👯 I’m looking to collaborate on Web3.0 and Full Stack development
+- 💬 Ask me about Javascript, React, Nodejs
 
 <!--
 **HarshDubey1011/HarshDubey1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
